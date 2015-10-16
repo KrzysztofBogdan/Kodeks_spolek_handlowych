@@ -37,12 +37,18 @@ Przez umowę spółki handlowej wspólnicy albo akcjonariusze zobowiązują się
 
 4) spółka dominująca - spółkę handlową w przypadku, gdy:
 
-a)dysponuje bezpośrednio lub pośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie innej spółki kapitałowej (spółki zależnej), także na podstawie porozumień z innymi osobami, lub
-b)jest uprawniona do powoływania lub odwoływania większości członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub
-c)jest uprawniona do powoływania lub odwoływania większości członków rady nadzorczej innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub
-d)członkowie jej zarządu stanowią więcej niż połowę członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), lub
-e)dysponuje bezpośrednio lub pośrednio większością głosów w spółce osobowej zależnej albo na walnym zgromadzeniu spółdzielni zależnej, także na podstawie porozumień z innymi osobami, lub
-f)wywiera decydujący wpływ na działalność spółki kapitałowej zależnej albo spółdzielni zależnej, w szczególności na podstawie umów określonych w art. 7;
+a)  dysponuje bezpośrednio lub pośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie innej spółki kapitałowej (spółki zależnej), także na podstawie porozumień z innymi osobami, lub
+
+b)  jest uprawniona do powoływania lub odwoływania większości członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub
+
+c) jest uprawniona do powoływania lub odwoływania większości członków rady nadzorczej innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub
+
+d) członkowie jej zarządu stanowią więcej niż połowę członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), lub
+
+e) dysponuje bezpośrednio lub pośrednio większością głosów w spółce osobowej zależnej albo na walnym zgromadzeniu spółdzielni zależnej, także na podstawie porozumień z innymi osobami, lub
+
+f) wywiera decydujący wpływ na działalność spółki kapitałowej zależnej albo spółdzielni zależnej, w szczególności na podstawie umów określonych w art. 7;
+
 5) spółka powiązana - spółkę kapitałową, w której inna spółka handlowa albo spółdzielnia dysponuje bezpośrednio lub pośrednio co najmniej 20% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik lub użytkownik, albo na podstawie porozumień z innymi osobami lub która posiada bezpośrednio co najmniej 20% udziałów albo akcji w innej spółce kapitałowej;
 
 6) spółka publiczna - spółkę w rozumieniu przepisów o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych;
@@ -3089,13 +3095,20 @@ Ogłoszenie o walnym zgromadzeniu spółki publicznej powinno zawierać co najmn
 
 2) precyzyjny opis procedur dotyczących uczestniczenia w walnym zgromadzeniu i wykonywania prawa głosu, w szczególności informacje o:
 
-a)prawie akcjonariusza do żądania umieszczenia określonych spraw w porządku obrad walnego zgromadzenia,
-b)prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia,
-c)prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad podczas walnego zgromadzenia,
-d)sposobie wykonywania prawa głosu przez pełnomocnika, w tym w szczególności o formularzach stosowanych podczas głosowania przez pełnomocnika, oraz sposobie zawiadamiania spółki przy wykorzystaniu środków komunikacji elektronicznej o ustanowieniu pełnomocnika,
-e)możliwości i sposobie uczestniczenia w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej,
-f)sposobie wypowiadania się w trakcie walnego zgromadzenia przy wykorzystaniu środków komunikacji elektronicznej,
-g)sposobie wykonywania prawa głosu drogą korespondencyjną lub przy wykorzystaniu środków komunikacji elektronicznej;
+a) prawie akcjonariusza do żądania umieszczenia określonych spraw w porządku obrad walnego zgromadzenia,
+
+b) prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia,
+
+c) prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad podczas walnego zgromadzenia,
+
+d) sposobie wykonywania prawa głosu przez pełnomocnika, w tym w szczególności o formularzach stosowanych podczas głosowania przez pełnomocnika, oraz sposobie zawiadamiania spółki przy wykorzystaniu środków komunikacji elektronicznej o ustanowieniu pełnomocnika,
+
+e) możliwości i sposobie uczestniczenia w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej,
+
+f) sposobie wypowiadania się w trakcie walnego zgromadzenia przy wykorzystaniu środków komunikacji elektronicznej,
+
+g) sposobie wykonywania prawa głosu drogą korespondencyjną lub przy wykorzystaniu środków komunikacji elektronicznej;
+
 3) dzień rejestracji uczestnictwa w walnym zgromadzeniu, o którym mowa w art. 406[1];
 
 4) informację, że prawo uczestniczenia w walnym zgromadzeniu mają tylko osoby będące akcjonariuszami spółki w dniu rejestracji uczestnictwa w walnym zgromadzeniu;
