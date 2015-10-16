@@ -5,9 +5,9 @@
 | 2015-01-15     | zm. DZ.U.2015.4 art. 1       |
 | 2015-09-23     | zm. DZ.U.2015.1333 art. 4    |
 
-USTAWA
+# USTAWA
 z dnia 15 września 2000 r.
-Kodeks spółek handlowych
+## Kodeks spółek handlowych
 (tekst jednolity)
 
 ### TYTUŁ I
